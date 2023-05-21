@@ -1,0 +1,744 @@
+2023-03-25 15:59:59,577 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:1
+2023-03-25 15:59:59,585 [DEBUG|FireBrigade/210552869|SampleSearch] Time:1
+2023-03-25 15:59:59,587 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 15:59:59,587 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 15:59:59,588 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 15:59:59,588 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:00,881 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:2
+2023-03-25 16:00:00,881 [DEBUG|FireBrigade/210552869|SampleSearch] Time:2
+2023-03-25 16:00:00,884 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:00,886 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:00,886 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:00,886 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:02,053 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:3
+2023-03-25 16:00:02,056 [DEBUG|FireBrigade/210552869|SampleSearch] Time:3
+2023-03-25 16:00:02,057 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:02,057 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:02,058 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:02,058 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:03,310 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:4
+2023-03-25 16:00:03,311 [DEBUG|FireBrigade/210552869|SampleSearch] Time:4
+2023-03-25 16:00:03,311 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:03,311 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:03,311 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:03,312 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:04,453 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:5
+2023-03-25 16:00:04,454 [DEBUG|FireBrigade/210552869|SampleSearch] Time:5
+2023-03-25 16:00:04,454 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:04,454 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:04,454 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:04,455 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:05,545 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:6
+2023-03-25 16:00:05,546 [DEBUG|FireBrigade/210552869|SampleSearch] Time:6
+2023-03-25 16:00:05,546 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:05,546 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:05,547 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:05,547 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:06,622 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:7
+2023-03-25 16:00:06,623 [DEBUG|FireBrigade/210552869|SampleSearch] Time:7
+2023-03-25 16:00:06,623 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:06,623 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:06,623 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:06,623 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:07,695 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:8
+2023-03-25 16:00:07,696 [DEBUG|FireBrigade/210552869|SampleSearch] Time:8
+2023-03-25 16:00:07,696 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:07,696 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:07,696 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:07,696 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:08,774 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:9
+2023-03-25 16:00:08,775 [DEBUG|FireBrigade/210552869|SampleSearch] Time:9
+2023-03-25 16:00:08,775 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:08,775 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:08,775 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:08,775 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:09,849 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:10
+2023-03-25 16:00:09,849 [DEBUG|FireBrigade/210552869|SampleSearch] Time:10
+2023-03-25 16:00:09,851 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:09,852 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:09,852 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:09,852 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:10,931 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:11
+2023-03-25 16:00:10,932 [DEBUG|FireBrigade/210552869|SampleSearch] Time:11
+2023-03-25 16:00:10,932 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:10,933 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:10,933 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:10,933 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:12,067 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:12
+2023-03-25 16:00:12,068 [DEBUG|FireBrigade/210552869|SampleSearch] Time:12
+2023-03-25 16:00:12,068 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:12,068 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:12,068 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:12,068 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:13,197 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:13
+2023-03-25 16:00:13,198 [DEBUG|FireBrigade/210552869|SampleSearch] Time:13
+2023-03-25 16:00:13,198 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:13,198 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:13,198 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:13,198 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:14,303 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:14
+2023-03-25 16:00:14,303 [DEBUG|FireBrigade/210552869|SampleSearch] Time:14
+2023-03-25 16:00:14,304 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:14,304 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:14,304 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:14,304 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:15,369 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:15
+2023-03-25 16:00:15,370 [DEBUG|FireBrigade/210552869|SampleSearch] Time:15
+2023-03-25 16:00:15,371 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:15,371 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:15,371 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:15,371 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:16,443 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:16
+2023-03-25 16:00:16,443 [DEBUG|FireBrigade/210552869|SampleSearch] Time:16
+2023-03-25 16:00:16,444 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:16,444 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:16,445 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:16,445 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:17,520 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:17
+2023-03-25 16:00:17,521 [DEBUG|FireBrigade/210552869|SampleSearch] Time:17
+2023-03-25 16:00:17,521 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:17,521 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:17,521 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:17,521 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:18,589 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:18
+2023-03-25 16:00:18,590 [DEBUG|FireBrigade/210552869|SampleSearch] Time:18
+2023-03-25 16:00:18,590 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:18,590 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:18,590 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:18,591 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:19,671 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:19
+2023-03-25 16:00:19,672 [DEBUG|FireBrigade/210552869|SampleSearch] Time:19
+2023-03-25 16:00:19,672 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:19,672 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:19,672 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:19,672 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:20,817 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:20
+2023-03-25 16:00:20,817 [DEBUG|FireBrigade/210552869|SampleSearch] Time:20
+2023-03-25 16:00:20,817 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:20,817 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:20,817 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:20,817 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:21,959 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:21
+2023-03-25 16:00:21,960 [DEBUG|FireBrigade/210552869|SampleSearch] Time:21
+2023-03-25 16:00:21,960 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:21,960 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:21,960 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:21,960 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:23,028 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:22
+2023-03-25 16:00:23,029 [DEBUG|FireBrigade/210552869|SampleSearch] Time:22
+2023-03-25 16:00:23,030 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:23,030 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:23,030 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:23,030 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:24,101 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:23
+2023-03-25 16:00:24,102 [DEBUG|FireBrigade/210552869|SampleSearch] Time:23
+2023-03-25 16:00:24,102 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:24,102 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:24,102 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:24,102 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:25,178 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:24
+2023-03-25 16:00:25,179 [DEBUG|FireBrigade/210552869|SampleSearch] Time:24
+2023-03-25 16:00:25,179 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:25,179 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:25,180 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:25,180 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:26,243 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:25
+2023-03-25 16:00:26,243 [DEBUG|FireBrigade/210552869|SampleSearch] Time:25
+2023-03-25 16:00:26,244 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:26,244 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:26,244 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:26,244 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:27,323 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:26
+2023-03-25 16:00:27,323 [DEBUG|FireBrigade/210552869|SampleSearch] Time:26
+2023-03-25 16:00:27,323 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:27,323 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:27,324 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:27,324 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:28,398 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:27
+2023-03-25 16:00:28,399 [DEBUG|FireBrigade/210552869|SampleSearch] Time:27
+2023-03-25 16:00:28,399 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:28,399 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:28,399 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:28,399 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:29,601 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:28
+2023-03-25 16:00:29,603 [DEBUG|FireBrigade/210552869|SampleSearch] Time:28
+2023-03-25 16:00:29,603 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:29,604 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:29,604 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:29,604 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:30,847 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:29
+2023-03-25 16:00:30,851 [DEBUG|FireBrigade/210552869|SampleSearch] Time:29
+2023-03-25 16:00:30,853 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:30,853 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:30,854 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:30,854 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:31,935 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:30
+2023-03-25 16:00:31,935 [DEBUG|FireBrigade/210552869|SampleSearch] Time:30
+2023-03-25 16:00:31,935 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:31,935 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:31,936 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:31,936 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:32,994 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:31
+2023-03-25 16:00:32,994 [DEBUG|FireBrigade/210552869|SampleSearch] Time:31
+2023-03-25 16:00:32,995 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:32,995 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:32,995 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:32,996 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:34,053 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:32
+2023-03-25 16:00:34,053 [DEBUG|FireBrigade/210552869|SampleSearch] Time:32
+2023-03-25 16:00:34,054 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:34,054 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:34,054 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:34,054 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:35,107 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:33
+2023-03-25 16:00:35,108 [DEBUG|FireBrigade/210552869|SampleSearch] Time:33
+2023-03-25 16:00:35,108 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:35,108 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:35,109 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:35,109 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:36,167 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:34
+2023-03-25 16:00:36,168 [DEBUG|FireBrigade/210552869|SampleSearch] Time:34
+2023-03-25 16:00:36,168 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:36,168 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:36,168 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:36,168 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:37,220 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:35
+2023-03-25 16:00:37,220 [DEBUG|FireBrigade/210552869|SampleSearch] Time:35
+2023-03-25 16:00:37,221 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:37,221 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:37,221 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:37,221 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:38,290 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:36
+2023-03-25 16:00:38,290 [DEBUG|FireBrigade/210552869|SampleSearch] Time:36
+2023-03-25 16:00:38,290 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:38,290 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:38,291 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:38,291 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:39,355 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:37
+2023-03-25 16:00:39,355 [DEBUG|FireBrigade/210552869|SampleSearch] Time:37
+2023-03-25 16:00:39,355 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:39,355 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:39,355 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:39,355 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:40,421 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:38
+2023-03-25 16:00:40,421 [DEBUG|FireBrigade/210552869|SampleSearch] Time:38
+2023-03-25 16:00:40,422 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:40,422 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:40,422 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:40,422 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:41,497 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:39
+2023-03-25 16:00:41,497 [DEBUG|FireBrigade/210552869|SampleSearch] Time:39
+2023-03-25 16:00:41,498 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:41,498 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:41,498 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:41,498 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:42,560 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:40
+2023-03-25 16:00:42,560 [DEBUG|FireBrigade/210552869|SampleSearch] Time:40
+2023-03-25 16:00:42,560 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:42,561 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:42,561 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:42,561 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:43,621 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:41
+2023-03-25 16:00:43,622 [DEBUG|FireBrigade/210552869|SampleSearch] Time:41
+2023-03-25 16:00:43,622 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:43,622 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:43,622 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:43,622 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:44,680 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:42
+2023-03-25 16:00:44,680 [DEBUG|FireBrigade/210552869|SampleSearch] Time:42
+2023-03-25 16:00:44,681 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:44,681 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:44,681 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:44,681 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:45,736 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:43
+2023-03-25 16:00:45,737 [DEBUG|FireBrigade/210552869|SampleSearch] Time:43
+2023-03-25 16:00:45,737 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:45,737 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:45,737 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:45,737 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:46,790 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:44
+2023-03-25 16:00:46,791 [DEBUG|FireBrigade/210552869|SampleSearch] Time:44
+2023-03-25 16:00:46,791 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:46,791 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:46,791 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:46,791 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:47,852 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:45
+2023-03-25 16:00:47,852 [DEBUG|FireBrigade/210552869|SampleSearch] Time:45
+2023-03-25 16:00:47,853 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:47,853 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:47,853 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:47,853 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:48,920 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:46
+2023-03-25 16:00:48,920 [DEBUG|FireBrigade/210552869|SampleSearch] Time:46
+2023-03-25 16:00:48,920 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:48,920 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:48,920 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:48,920 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:49,979 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:47
+2023-03-25 16:00:49,979 [DEBUG|FireBrigade/210552869|SampleSearch] Time:47
+2023-03-25 16:00:49,979 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:49,979 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:49,979 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:49,979 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:51,039 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:48
+2023-03-25 16:00:51,039 [DEBUG|FireBrigade/210552869|SampleSearch] Time:48
+2023-03-25 16:00:51,039 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:51,039 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:51,039 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:51,039 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:52,106 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:49
+2023-03-25 16:00:52,106 [DEBUG|FireBrigade/210552869|SampleSearch] Time:49
+2023-03-25 16:00:52,106 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:52,107 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:52,107 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:52,107 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:53,173 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:50
+2023-03-25 16:00:53,173 [DEBUG|FireBrigade/210552869|SampleSearch] Time:50
+2023-03-25 16:00:53,173 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:53,174 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:53,174 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:53,174 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:54,252 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:51
+2023-03-25 16:00:54,252 [DEBUG|FireBrigade/210552869|SampleSearch] Time:51
+2023-03-25 16:00:54,252 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:54,252 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:54,253 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:54,253 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:55,314 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:52
+2023-03-25 16:00:55,315 [DEBUG|FireBrigade/210552869|SampleSearch] Time:52
+2023-03-25 16:00:55,315 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:55,315 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:55,315 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:55,315 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:56,381 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:53
+2023-03-25 16:00:56,382 [DEBUG|FireBrigade/210552869|SampleSearch] Time:53
+2023-03-25 16:00:56,382 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:56,382 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:56,382 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:56,382 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:57,448 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:54
+2023-03-25 16:00:57,449 [DEBUG|FireBrigade/210552869|SampleSearch] Time:54
+2023-03-25 16:00:57,449 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:57,449 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:57,449 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:57,449 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:58,508 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:55
+2023-03-25 16:00:58,508 [DEBUG|FireBrigade/210552869|SampleSearch] Time:55
+2023-03-25 16:00:58,508 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:58,508 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:58,508 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:58,508 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:00:59,578 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:56
+2023-03-25 16:00:59,578 [DEBUG|FireBrigade/210552869|SampleSearch] Time:56
+2023-03-25 16:00:59,579 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:59,579 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:00:59,579 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:00:59,579 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:00,637 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:57
+2023-03-25 16:01:00,638 [DEBUG|FireBrigade/210552869|SampleSearch] Time:57
+2023-03-25 16:01:00,638 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:00,638 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:00,638 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:00,638 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:01,699 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:58
+2023-03-25 16:01:01,700 [DEBUG|FireBrigade/210552869|SampleSearch] Time:58
+2023-03-25 16:01:01,700 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:01,700 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:01,700 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:01,700 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:02,764 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:59
+2023-03-25 16:01:02,764 [DEBUG|FireBrigade/210552869|SampleSearch] Time:59
+2023-03-25 16:01:02,764 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:02,765 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:02,765 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:02,765 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:03,820 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:60
+2023-03-25 16:01:03,820 [DEBUG|FireBrigade/210552869|SampleSearch] Time:60
+2023-03-25 16:01:03,820 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:03,820 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:03,820 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:03,820 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:04,882 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:61
+2023-03-25 16:01:04,882 [DEBUG|FireBrigade/210552869|SampleSearch] Time:61
+2023-03-25 16:01:04,883 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:04,883 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:04,883 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:04,883 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:05,948 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:62
+2023-03-25 16:01:05,948 [DEBUG|FireBrigade/210552869|SampleSearch] Time:62
+2023-03-25 16:01:05,948 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:05,948 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:05,949 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:05,949 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:07,029 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:63
+2023-03-25 16:01:07,030 [DEBUG|FireBrigade/210552869|SampleSearch] Time:63
+2023-03-25 16:01:07,030 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:07,030 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:07,030 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:07,030 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:08,076 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:64
+2023-03-25 16:01:08,077 [DEBUG|FireBrigade/210552869|SampleSearch] Time:64
+2023-03-25 16:01:08,077 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:08,077 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:08,077 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:08,077 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:09,125 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:65
+2023-03-25 16:01:09,125 [DEBUG|FireBrigade/210552869|SampleSearch] Time:65
+2023-03-25 16:01:09,125 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:09,125 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:09,126 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:09,126 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:10,185 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:66
+2023-03-25 16:01:10,185 [DEBUG|FireBrigade/210552869|SampleSearch] Time:66
+2023-03-25 16:01:10,185 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:10,185 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:10,186 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:10,186 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:11,239 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:67
+2023-03-25 16:01:11,239 [DEBUG|FireBrigade/210552869|SampleSearch] Time:67
+2023-03-25 16:01:11,239 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:11,239 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:11,240 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:11,240 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:12,293 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:68
+2023-03-25 16:01:12,293 [DEBUG|FireBrigade/210552869|SampleSearch] Time:68
+2023-03-25 16:01:12,294 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:12,294 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:12,294 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:12,294 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:13,363 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:69
+2023-03-25 16:01:13,363 [DEBUG|FireBrigade/210552869|SampleSearch] Time:69
+2023-03-25 16:01:13,364 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:13,364 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:13,364 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:13,364 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:14,426 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:70
+2023-03-25 16:01:14,427 [DEBUG|FireBrigade/210552869|SampleSearch] Time:70
+2023-03-25 16:01:14,427 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:14,427 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:14,427 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:14,428 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:15,504 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:71
+2023-03-25 16:01:15,504 [DEBUG|FireBrigade/210552869|SampleSearch] Time:71
+2023-03-25 16:01:15,505 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:15,505 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:15,505 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:15,505 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:16,560 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:72
+2023-03-25 16:01:16,560 [DEBUG|FireBrigade/210552869|SampleSearch] Time:72
+2023-03-25 16:01:16,560 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:16,561 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:16,561 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:16,561 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:17,621 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:73
+2023-03-25 16:01:17,622 [DEBUG|FireBrigade/210552869|SampleSearch] Time:73
+2023-03-25 16:01:17,622 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:17,622 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:17,622 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:17,622 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:18,686 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:74
+2023-03-25 16:01:18,686 [DEBUG|FireBrigade/210552869|SampleSearch] Time:74
+2023-03-25 16:01:18,687 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:18,687 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:18,687 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:18,687 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:19,761 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:75
+2023-03-25 16:01:19,762 [DEBUG|FireBrigade/210552869|SampleSearch] Time:75
+2023-03-25 16:01:19,762 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:19,762 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:19,762 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:19,762 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:20,830 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:76
+2023-03-25 16:01:20,830 [DEBUG|FireBrigade/210552869|SampleSearch] Time:76
+2023-03-25 16:01:20,830 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:20,831 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:20,831 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:20,831 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:21,893 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:77
+2023-03-25 16:01:21,893 [DEBUG|FireBrigade/210552869|SampleSearch] Time:77
+2023-03-25 16:01:21,894 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:21,894 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:21,894 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:21,894 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:22,989 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:78
+2023-03-25 16:01:22,989 [DEBUG|FireBrigade/210552869|SampleSearch] Time:78
+2023-03-25 16:01:22,990 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:22,990 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:22,990 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:22,990 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:24,044 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:79
+2023-03-25 16:01:24,045 [DEBUG|FireBrigade/210552869|SampleSearch] Time:79
+2023-03-25 16:01:24,045 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:24,045 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:24,045 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:24,045 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:25,117 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:80
+2023-03-25 16:01:25,117 [DEBUG|FireBrigade/210552869|SampleSearch] Time:80
+2023-03-25 16:01:25,118 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:25,118 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:25,118 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:25,118 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:26,178 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:81
+2023-03-25 16:01:26,179 [DEBUG|FireBrigade/210552869|SampleSearch] Time:81
+2023-03-25 16:01:26,179 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:26,179 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:26,179 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:26,179 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:27,244 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:82
+2023-03-25 16:01:27,245 [DEBUG|FireBrigade/210552869|SampleSearch] Time:82
+2023-03-25 16:01:27,245 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:27,245 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:27,245 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:27,246 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:28,296 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:83
+2023-03-25 16:01:28,297 [DEBUG|FireBrigade/210552869|SampleSearch] Time:83
+2023-03-25 16:01:28,297 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:28,297 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:28,297 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:28,297 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:29,360 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:84
+2023-03-25 16:01:29,361 [DEBUG|FireBrigade/210552869|SampleSearch] Time:84
+2023-03-25 16:01:29,361 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:29,361 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:29,362 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:29,362 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:30,428 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:85
+2023-03-25 16:01:30,428 [DEBUG|FireBrigade/210552869|SampleSearch] Time:85
+2023-03-25 16:01:30,429 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:30,429 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:30,429 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:30,429 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:31,511 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:86
+2023-03-25 16:01:31,511 [DEBUG|FireBrigade/210552869|SampleSearch] Time:86
+2023-03-25 16:01:31,511 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:31,511 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:31,512 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:31,512 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:32,599 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:87
+2023-03-25 16:01:32,600 [DEBUG|FireBrigade/210552869|SampleSearch] Time:87
+2023-03-25 16:01:32,600 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:32,600 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:32,600 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:32,600 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:33,657 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:88
+2023-03-25 16:01:33,657 [DEBUG|FireBrigade/210552869|SampleSearch] Time:88
+2023-03-25 16:01:33,657 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:33,657 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:33,657 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:33,657 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:34,726 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:89
+2023-03-25 16:01:34,726 [DEBUG|FireBrigade/210552869|SampleSearch] Time:89
+2023-03-25 16:01:34,727 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:34,727 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:34,727 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:34,727 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:35,789 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:90
+2023-03-25 16:01:35,789 [DEBUG|FireBrigade/210552869|SampleSearch] Time:90
+2023-03-25 16:01:35,789 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:35,790 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:35,790 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:35,790 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:36,861 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:91
+2023-03-25 16:01:36,862 [DEBUG|FireBrigade/210552869|SampleSearch] Time:91
+2023-03-25 16:01:36,862 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:36,862 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:36,863 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:36,863 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:37,933 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:92
+2023-03-25 16:01:37,933 [DEBUG|FireBrigade/210552869|SampleSearch] Time:92
+2023-03-25 16:01:37,934 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:37,934 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:37,934 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:37,934 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:39,038 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:93
+2023-03-25 16:01:39,038 [DEBUG|FireBrigade/210552869|SampleSearch] Time:93
+2023-03-25 16:01:39,039 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:39,039 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:39,039 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:39,039 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:40,090 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:94
+2023-03-25 16:01:40,091 [DEBUG|FireBrigade/210552869|SampleSearch] Time:94
+2023-03-25 16:01:40,091 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:40,091 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:40,091 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:40,091 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:41,156 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:95
+2023-03-25 16:01:41,156 [DEBUG|FireBrigade/210552869|SampleSearch] Time:95
+2023-03-25 16:01:41,157 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:41,157 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:41,157 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:41,157 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:42,218 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:96
+2023-03-25 16:01:42,218 [DEBUG|FireBrigade/210552869|SampleSearch] Time:96
+2023-03-25 16:01:42,218 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:42,219 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:42,219 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:42,219 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:43,287 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:97
+2023-03-25 16:01:43,288 [DEBUG|FireBrigade/210552869|SampleSearch] Time:97
+2023-03-25 16:01:43,288 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:43,288 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:43,288 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:43,289 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:44,364 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:98
+2023-03-25 16:01:44,364 [DEBUG|FireBrigade/210552869|SampleSearch] Time:98
+2023-03-25 16:01:44,364 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:44,365 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:44,365 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:44,366 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:45,441 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:99
+2023-03-25 16:01:45,441 [DEBUG|FireBrigade/210552869|SampleSearch] Time:99
+2023-03-25 16:01:45,442 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:45,442 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:45,442 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:45,442 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:46,503 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:100
+2023-03-25 16:01:46,503 [DEBUG|FireBrigade/210552869|SampleSearch] Time:100
+2023-03-25 16:01:46,504 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:46,504 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:46,504 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:46,504 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:47,574 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:101
+2023-03-25 16:01:47,575 [DEBUG|FireBrigade/210552869|SampleSearch] Time:101
+2023-03-25 16:01:47,575 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:47,575 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:47,575 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:47,575 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:48,706 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:102
+2023-03-25 16:01:48,706 [DEBUG|FireBrigade/210552869|SampleSearch] Time:102
+2023-03-25 16:01:48,706 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:48,706 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:48,706 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:48,706 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:49,881 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:103
+2023-03-25 16:01:49,881 [DEBUG|FireBrigade/210552869|SampleSearch] Time:103
+2023-03-25 16:01:49,881 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:49,881 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:49,881 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:49,881 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:50,985 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:104
+2023-03-25 16:01:50,986 [DEBUG|FireBrigade/210552869|SampleSearch] Time:104
+2023-03-25 16:01:50,987 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:50,987 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:50,988 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:50,988 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:52,058 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:105
+2023-03-25 16:01:52,059 [DEBUG|FireBrigade/210552869|SampleSearch] Time:105
+2023-03-25 16:01:52,059 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:52,059 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:52,059 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:52,059 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:53,162 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:106
+2023-03-25 16:01:53,162 [DEBUG|FireBrigade/210552869|SampleSearch] Time:106
+2023-03-25 16:01:53,163 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:53,163 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:53,163 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:53,163 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:54,242 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:107
+2023-03-25 16:01:54,243 [DEBUG|FireBrigade/210552869|SampleSearch] Time:107
+2023-03-25 16:01:54,243 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:54,243 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:54,243 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:54,243 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:55,387 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:108
+2023-03-25 16:01:55,387 [DEBUG|FireBrigade/210552869|SampleSearch] Time:108
+2023-03-25 16:01:55,387 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:55,387 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:55,387 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:55,387 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:56,465 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:109
+2023-03-25 16:01:56,466 [DEBUG|FireBrigade/210552869|SampleSearch] Time:109
+2023-03-25 16:01:56,466 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:56,466 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:56,466 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:56,466 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:57,534 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:110
+2023-03-25 16:01:57,534 [DEBUG|FireBrigade/210552869|SampleSearch] Time:110
+2023-03-25 16:01:57,534 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:57,534 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:57,534 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:57,534 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:58,615 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:111
+2023-03-25 16:01:58,615 [DEBUG|FireBrigade/210552869|SampleSearch] Time:111
+2023-03-25 16:01:58,616 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:58,616 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:58,616 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:58,616 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:01:59,692 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:112
+2023-03-25 16:01:59,692 [DEBUG|FireBrigade/210552869|SampleSearch] Time:112
+2023-03-25 16:01:59,692 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:59,692 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:01:59,692 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:01:59,693 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:02:00,757 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:113
+2023-03-25 16:02:00,758 [DEBUG|FireBrigade/210552869|SampleSearch] Time:113
+2023-03-25 16:02:00,758 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:00,758 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:02:00,758 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:02:00,758 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:02:01,827 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:114
+2023-03-25 16:02:01,827 [DEBUG|FireBrigade/210552869|SampleSearch] Time:114
+2023-03-25 16:02:01,827 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:01,827 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:02:01,827 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:02:01,828 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:02:02,900 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:115
+2023-03-25 16:02:02,901 [DEBUG|FireBrigade/210552869|SampleSearch] Time:115
+2023-03-25 16:02:02,901 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:02,901 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:02:02,901 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:02:02,901 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:02:04,153 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:116
+2023-03-25 16:02:04,154 [DEBUG|FireBrigade/210552869|SampleSearch] Time:116
+2023-03-25 16:02:04,154 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:04,154 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:02:04,154 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:02:04,155 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:02:05,270 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:117
+2023-03-25 16:02:05,271 [DEBUG|FireBrigade/210552869|SampleSearch] Time:117
+2023-03-25 16:02:05,271 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:05,271 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:02:05,271 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:02:05,271 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:02:06,338 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:118
+2023-03-25 16:02:06,338 [DEBUG|FireBrigade/210552869|SampleSearch] Time:118
+2023-03-25 16:02:06,338 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:06,338 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:02:06,338 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:02:06,339 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:02:07,409 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:119
+2023-03-25 16:02:07,409 [DEBUG|FireBrigade/210552869|SampleSearch] Time:119
+2023-03-25 16:02:07,409 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:07,409 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:02:07,410 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:02:07,410 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:02:08,518 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:120
+2023-03-25 16:02:08,520 [DEBUG|FireBrigade/210552869|SampleSearch] Time:120
+2023-03-25 16:02:08,520 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:08,521 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:02:08,521 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:02:08,521 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:02:10,491 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:121
+2023-03-25 16:02:10,491 [DEBUG|FireBrigade/210552869|SampleSearch] Time:121
+2023-03-25 16:02:10,491 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:10,491 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:02:10,491 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:02:10,491 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:02:11,587 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:122
+2023-03-25 16:02:11,587 [DEBUG|FireBrigade/210552869|SampleSearch] Time:122
+2023-03-25 16:02:11,588 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:11,588 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:02:11,588 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:02:11,588 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:02:12,706 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:123
+2023-03-25 16:02:12,706 [DEBUG|FireBrigade/210552869|SampleSearch] Time:123
+2023-03-25 16:02:12,707 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:12,707 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:02:12,707 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:02:12,707 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976
+2023-03-25 16:02:13,775 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Time:124
+2023-03-25 16:02:13,775 [DEBUG|FireBrigade/210552869|SampleSearch] Time:124
+2023-03-25 16:02:13,775 [DEBUG|FireBrigade/210552869|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:13,775 [DEBUG|FireBrigade/210552869|SampleSearch] unsearchedBuildingIDs: [960, 905, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 949, 247, 248, 953, 249, 250, 251, 253, 958, 959]
+2023-03-25 16:02:13,776 [DEBUG|FireBrigade/210552869|SampleSearch] best path is: [976, 929, 958]
+2023-03-25 16:02:13,776 [DEBUG|FireBrigade/210552869|SampleSearch] chose: 976

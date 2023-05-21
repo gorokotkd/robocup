@@ -1,0 +1,558 @@
+2023-03-25 15:59:59,613 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:1
+2023-03-25 15:59:59,614 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:1
+2023-03-25 15:59:59,614 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: [Road (902), Refuge (298)]
+2023-03-25 15:59:59,614 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Selected Target: 902
+2023-03-25 16:00:00,903 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:2
+2023-03-25 16:00:00,903 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:2
+2023-03-25 16:00:02,129 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:3
+2023-03-25 16:00:02,130 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:3
+2023-03-25 16:00:03,363 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:4
+2023-03-25 16:00:03,363 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:4
+2023-03-25 16:00:03,363 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] reach to Road (902) resetting target
+2023-03-25 16:00:03,364 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: [Refuge (298)]
+2023-03-25 16:00:03,364 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Selected Target: 298
+2023-03-25 16:00:04,468 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:5
+2023-03-25 16:00:04,469 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:5
+2023-03-25 16:00:05,560 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:6
+2023-03-25 16:00:05,560 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:6
+2023-03-25 16:00:06,636 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:7
+2023-03-25 16:00:06,636 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:7
+2023-03-25 16:00:07,710 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:8
+2023-03-25 16:00:07,710 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:8
+2023-03-25 16:00:08,785 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:9
+2023-03-25 16:00:08,785 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:9
+2023-03-25 16:00:09,875 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:10
+2023-03-25 16:00:09,875 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:10
+2023-03-25 16:00:10,957 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:11
+2023-03-25 16:00:10,958 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:11
+2023-03-25 16:00:12,092 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:12
+2023-03-25 16:00:12,093 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:12
+2023-03-25 16:00:13,232 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:13
+2023-03-25 16:00:13,233 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:13
+2023-03-25 16:00:14,314 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:14
+2023-03-25 16:00:14,314 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:14
+2023-03-25 16:00:15,385 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:15
+2023-03-25 16:00:15,386 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:15
+2023-03-25 16:00:16,457 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:16
+2023-03-25 16:00:16,458 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:16
+2023-03-25 16:00:17,532 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:17
+2023-03-25 16:00:17,533 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:17
+2023-03-25 16:00:18,620 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:18
+2023-03-25 16:00:18,620 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:18
+2023-03-25 16:00:19,688 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:19
+2023-03-25 16:00:19,688 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:19
+2023-03-25 16:00:20,851 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:20
+2023-03-25 16:00:20,851 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:20
+2023-03-25 16:00:21,973 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:21
+2023-03-25 16:00:21,973 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:21
+2023-03-25 16:00:23,041 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:22
+2023-03-25 16:00:23,041 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:22
+2023-03-25 16:00:24,114 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:23
+2023-03-25 16:00:24,115 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:23
+2023-03-25 16:00:25,189 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:24
+2023-03-25 16:00:25,189 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:24
+2023-03-25 16:00:26,256 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:25
+2023-03-25 16:00:26,256 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:25
+2023-03-25 16:00:27,341 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:26
+2023-03-25 16:00:27,341 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:26
+2023-03-25 16:00:28,413 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:27
+2023-03-25 16:00:28,413 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:27
+2023-03-25 16:00:29,691 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:28
+2023-03-25 16:00:29,692 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:28
+2023-03-25 16:00:30,887 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:29
+2023-03-25 16:00:30,887 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:29
+2023-03-25 16:00:31,954 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:30
+2023-03-25 16:00:31,954 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:30
+2023-03-25 16:00:33,008 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:31
+2023-03-25 16:00:33,009 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:31
+2023-03-25 16:00:34,068 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:32
+2023-03-25 16:00:34,069 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:32
+2023-03-25 16:00:35,123 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:33
+2023-03-25 16:00:35,123 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:33
+2023-03-25 16:00:36,179 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:34
+2023-03-25 16:00:36,179 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:34
+2023-03-25 16:00:37,236 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:35
+2023-03-25 16:00:37,236 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:35
+2023-03-25 16:00:38,303 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:36
+2023-03-25 16:00:38,303 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:36
+2023-03-25 16:00:39,369 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:37
+2023-03-25 16:00:39,369 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:37
+2023-03-25 16:00:40,438 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:38
+2023-03-25 16:00:40,438 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:38
+2023-03-25 16:00:41,512 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:39
+2023-03-25 16:00:41,512 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:39
+2023-03-25 16:00:42,573 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:40
+2023-03-25 16:00:42,573 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:40
+2023-03-25 16:00:43,634 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:41
+2023-03-25 16:00:43,634 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:41
+2023-03-25 16:00:44,693 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:42
+2023-03-25 16:00:44,694 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:42
+2023-03-25 16:00:45,750 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:43
+2023-03-25 16:00:45,750 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:43
+2023-03-25 16:00:46,804 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:44
+2023-03-25 16:00:46,804 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:44
+2023-03-25 16:00:47,864 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:45
+2023-03-25 16:00:47,864 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:45
+2023-03-25 16:00:48,932 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:46
+2023-03-25 16:00:48,933 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:46
+2023-03-25 16:00:49,993 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:47
+2023-03-25 16:00:49,993 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:47
+2023-03-25 16:00:51,051 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:48
+2023-03-25 16:00:51,052 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:48
+2023-03-25 16:00:52,121 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:49
+2023-03-25 16:00:52,121 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:49
+2023-03-25 16:00:52,121 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] reach to Refuge (298) resetting target
+2023-03-25 16:00:52,121 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:00:52,122 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:00:52,122 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [298, 297, 914, 942]
+2023-03-25 16:00:52,122 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:00:53,189 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:50
+2023-03-25 16:00:53,189 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:50
+2023-03-25 16:00:53,189 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:00:53,189 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:00:53,189 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [298, 297, 914, 942]
+2023-03-25 16:00:53,190 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:00:54,266 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:51
+2023-03-25 16:00:54,266 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:51
+2023-03-25 16:00:54,266 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:00:54,266 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:00:54,266 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [298, 297, 914, 942]
+2023-03-25 16:00:54,267 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:00:55,328 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:52
+2023-03-25 16:00:55,329 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:52
+2023-03-25 16:00:55,329 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:00:55,329 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:00:55,329 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [298, 297, 914, 942]
+2023-03-25 16:00:55,329 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:00:56,394 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:53
+2023-03-25 16:00:56,394 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:53
+2023-03-25 16:00:56,394 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:00:56,394 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:00:56,394 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [298, 297, 914, 942]
+2023-03-25 16:00:56,394 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:00:57,459 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:54
+2023-03-25 16:00:57,459 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:54
+2023-03-25 16:00:57,460 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:00:57,460 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:00:57,460 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:57,460 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:00:58,523 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:55
+2023-03-25 16:00:58,524 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:55
+2023-03-25 16:00:58,524 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:00:58,524 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:00:58,524 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:58,524 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:00:59,589 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:56
+2023-03-25 16:00:59,589 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:56
+2023-03-25 16:00:59,589 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:00:59,589 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:00:59,589 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:59,590 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:01:00,650 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:57
+2023-03-25 16:01:00,650 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:57
+2023-03-25 16:01:00,650 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:00,650 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:01:00,650 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:00,650 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:01:01,715 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:58
+2023-03-25 16:01:01,716 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:58
+2023-03-25 16:01:01,716 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:01,716 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:01:01,716 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:01,716 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:01:02,774 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:59
+2023-03-25 16:01:02,774 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:59
+2023-03-25 16:01:02,774 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:02,774 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:01:02,775 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:02,775 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:01:03,833 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:60
+2023-03-25 16:01:03,834 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:60
+2023-03-25 16:01:03,834 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:03,835 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:01:03,835 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:03,835 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:01:04,898 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:61
+2023-03-25 16:01:04,899 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:61
+2023-03-25 16:01:04,899 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:04,899 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:01:04,899 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:04,899 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:01:05,964 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:62
+2023-03-25 16:01:05,965 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:62
+2023-03-25 16:01:05,965 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:05,965 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:01:05,965 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:05,965 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:01:07,044 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:63
+2023-03-25 16:01:07,045 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:63
+2023-03-25 16:01:07,045 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:07,045 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:01:07,045 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:07,045 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:01:08,088 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:64
+2023-03-25 16:01:08,088 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:64
+2023-03-25 16:01:08,088 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:08,088 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:01:08,088 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:08,088 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:01:09,139 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:65
+2023-03-25 16:01:09,139 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:65
+2023-03-25 16:01:09,140 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:09,140 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:01:09,140 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:09,140 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:01:10,197 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:66
+2023-03-25 16:01:10,198 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:66
+2023-03-25 16:01:10,198 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:10,198 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937, 942, 943]
+2023-03-25 16:01:10,198 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:10,198 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 297
+2023-03-25 16:01:11,253 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:67
+2023-03-25 16:01:11,253 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:67
+2023-03-25 16:01:11,253 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:11,253 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:11,253 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [297, 296, 281, 256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:11,253 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:12,312 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:68
+2023-03-25 16:01:12,312 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:68
+2023-03-25 16:01:12,312 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:12,312 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:12,312 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [296, 281, 256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:12,312 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:13,373 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:69
+2023-03-25 16:01:13,374 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:69
+2023-03-25 16:01:13,374 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:13,374 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:13,374 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:13,374 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:14,440 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:70
+2023-03-25 16:01:14,440 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:70
+2023-03-25 16:01:14,440 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:14,440 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:14,440 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:14,441 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:15,521 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:71
+2023-03-25 16:01:15,521 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:71
+2023-03-25 16:01:15,521 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:15,521 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:15,521 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:15,522 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:16,577 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:72
+2023-03-25 16:01:16,577 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:72
+2023-03-25 16:01:16,577 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:16,577 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:16,577 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:16,577 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:17,635 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:73
+2023-03-25 16:01:17,635 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:73
+2023-03-25 16:01:17,635 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:17,635 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:17,636 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:17,636 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:18,700 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:74
+2023-03-25 16:01:18,701 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:74
+2023-03-25 16:01:18,701 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:18,701 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:18,701 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:18,702 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:19,778 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:75
+2023-03-25 16:01:19,778 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:75
+2023-03-25 16:01:19,778 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:19,778 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:19,778 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:19,778 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:20,844 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:76
+2023-03-25 16:01:20,844 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:76
+2023-03-25 16:01:20,844 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:20,844 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:20,844 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:20,845 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:21,913 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:77
+2023-03-25 16:01:21,913 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:77
+2023-03-25 16:01:21,913 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:21,913 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:21,913 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:21,913 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:23,003 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:78
+2023-03-25 16:01:23,003 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:78
+2023-03-25 16:01:23,003 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:23,003 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:23,003 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:23,003 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:24,057 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:79
+2023-03-25 16:01:24,057 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:79
+2023-03-25 16:01:24,057 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:24,057 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [937]
+2023-03-25 16:01:24,057 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [256, 271, 278, 268, 933, 937]
+2023-03-25 16:01:24,057 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 268
+2023-03-25 16:01:25,139 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:80
+2023-03-25 16:01:25,140 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:80
+2023-03-25 16:01:25,140 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:25,140 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 249, 253]
+2023-03-25 16:01:25,140 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [271, 256, 281, 273, 903, 935]
+2023-03-25 16:01:25,140 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:26,197 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:81
+2023-03-25 16:01:26,198 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:81
+2023-03-25 16:01:26,198 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:26,198 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 249, 253]
+2023-03-25 16:01:26,198 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [271, 256, 281, 273, 903, 935]
+2023-03-25 16:01:26,198 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:27,258 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:82
+2023-03-25 16:01:27,258 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:82
+2023-03-25 16:01:27,258 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:27,258 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 249, 253]
+2023-03-25 16:01:27,258 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [271, 256, 281, 273, 903, 935]
+2023-03-25 16:01:27,258 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:28,313 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:83
+2023-03-25 16:01:28,313 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:83
+2023-03-25 16:01:28,313 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:28,314 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 249, 253]
+2023-03-25 16:01:28,314 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [271, 256, 281, 273, 903, 935]
+2023-03-25 16:01:28,314 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:29,373 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:84
+2023-03-25 16:01:29,373 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:84
+2023-03-25 16:01:29,373 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:29,373 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 249, 253]
+2023-03-25 16:01:29,373 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [271, 256, 281, 273, 903, 935]
+2023-03-25 16:01:29,373 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:30,458 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:85
+2023-03-25 16:01:30,458 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:85
+2023-03-25 16:01:30,458 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:30,458 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:30,458 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:30,458 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:31,527 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:86
+2023-03-25 16:01:31,527 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:86
+2023-03-25 16:01:31,527 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:31,527 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:31,528 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:31,528 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:32,611 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:87
+2023-03-25 16:01:32,611 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:87
+2023-03-25 16:01:32,611 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:32,611 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:32,611 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:32,611 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:33,670 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:88
+2023-03-25 16:01:33,670 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:88
+2023-03-25 16:01:33,671 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:33,671 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:33,671 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:33,671 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:34,738 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:89
+2023-03-25 16:01:34,738 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:89
+2023-03-25 16:01:34,738 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:34,738 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:34,738 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:34,738 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:35,804 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:90
+2023-03-25 16:01:35,804 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:90
+2023-03-25 16:01:35,804 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:35,804 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:35,804 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:35,804 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:36,878 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:91
+2023-03-25 16:01:36,878 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:91
+2023-03-25 16:01:36,878 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:36,878 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:36,878 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:36,878 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:37,946 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:92
+2023-03-25 16:01:37,947 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:92
+2023-03-25 16:01:37,947 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:37,947 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:37,947 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:37,947 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:39,050 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:93
+2023-03-25 16:01:39,050 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:93
+2023-03-25 16:01:39,050 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:39,050 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:39,050 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:39,050 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:40,101 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:94
+2023-03-25 16:01:40,101 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:94
+2023-03-25 16:01:40,101 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:40,101 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:40,101 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:40,101 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:41,170 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:95
+2023-03-25 16:01:41,170 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:95
+2023-03-25 16:01:41,170 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:41,170 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:41,170 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:41,170 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:42,236 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:96
+2023-03-25 16:01:42,236 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:96
+2023-03-25 16:01:42,236 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:42,236 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:42,236 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:42,236 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:43,310 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:97
+2023-03-25 16:01:43,310 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:97
+2023-03-25 16:01:43,310 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:43,311 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:43,311 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:43,311 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:44,378 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:98
+2023-03-25 16:01:44,378 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:98
+2023-03-25 16:01:44,378 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:44,379 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:44,379 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:44,379 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:45,456 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:99
+2023-03-25 16:01:45,456 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:99
+2023-03-25 16:01:45,456 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:45,456 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:45,456 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:45,456 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:46,514 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:100
+2023-03-25 16:01:46,515 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:100
+2023-03-25 16:01:46,515 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:46,515 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:46,515 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:46,515 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:47,589 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:101
+2023-03-25 16:01:47,589 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:101
+2023-03-25 16:01:47,590 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:47,590 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:47,590 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:47,590 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:48,777 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:102
+2023-03-25 16:01:48,777 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:102
+2023-03-25 16:01:48,777 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:48,777 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:48,777 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:48,777 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:49,903 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:103
+2023-03-25 16:01:49,904 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:103
+2023-03-25 16:01:49,904 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:49,904 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:49,904 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:49,904 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:50,998 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:104
+2023-03-25 16:01:50,999 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:104
+2023-03-25 16:01:50,999 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:50,999 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:50,999 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:50,999 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:52,086 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:105
+2023-03-25 16:01:52,086 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:105
+2023-03-25 16:01:52,087 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:52,087 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:52,087 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:52,087 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:53,177 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:106
+2023-03-25 16:01:53,177 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:106
+2023-03-25 16:01:53,177 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:53,177 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:53,177 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:53,177 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:54,306 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:107
+2023-03-25 16:01:54,307 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:107
+2023-03-25 16:01:54,307 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:54,307 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:54,307 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:54,307 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:55,401 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:108
+2023-03-25 16:01:55,401 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:108
+2023-03-25 16:01:55,402 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:55,402 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:55,402 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:55,402 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:56,474 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:109
+2023-03-25 16:01:56,474 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:109
+2023-03-25 16:01:56,475 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:56,475 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:56,475 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:56,475 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:57,551 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:110
+2023-03-25 16:01:57,552 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:110
+2023-03-25 16:01:57,552 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:57,552 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:57,552 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:57,552 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:58,630 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:111
+2023-03-25 16:01:58,630 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:111
+2023-03-25 16:01:58,631 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:58,631 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:58,631 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:58,631 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:01:59,704 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:112
+2023-03-25 16:01:59,704 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:112
+2023-03-25 16:01:59,705 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:01:59,705 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:01:59,705 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:01:59,705 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:02:00,772 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:113
+2023-03-25 16:02:00,772 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:113
+2023-03-25 16:02:00,772 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:02:00,772 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:02:00,772 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:02:00,772 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:02:01,840 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:114
+2023-03-25 16:02:01,840 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:114
+2023-03-25 16:02:01,840 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:02:01,840 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:02:01,840 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:02:01,840 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:02:02,918 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:115
+2023-03-25 16:02:02,918 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:115
+2023-03-25 16:02:02,918 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:02:02,918 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:02:02,919 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:02:02,919 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:02:04,195 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:116
+2023-03-25 16:02:04,195 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:116
+2023-03-25 16:02:04,196 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:02:04,196 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:02:04,196 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:02:04,196 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:02:05,283 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:117
+2023-03-25 16:02:05,284 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:117
+2023-03-25 16:02:05,284 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:02:05,284 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:02:05,284 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:02:05,284 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:02:06,353 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:118
+2023-03-25 16:02:06,354 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:118
+2023-03-25 16:02:06,354 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:02:06,354 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:02:06,354 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:02:06,354 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:02:07,422 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:119
+2023-03-25 16:02:07,422 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:119
+2023-03-25 16:02:07,422 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:02:07,423 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:02:07,423 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:02:07,423 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:02:08,533 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:120
+2023-03-25 16:02:08,533 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:120
+2023-03-25 16:02:08,533 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:02:08,533 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:02:08,533 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:02:08,533 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:02:10,516 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:121
+2023-03-25 16:02:10,516 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:121
+2023-03-25 16:02:10,516 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:02:10,516 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:02:10,516 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:02:10,517 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:02:11,627 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:122
+2023-03-25 16:02:11,627 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:122
+2023-03-25 16:02:11,627 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:02:11,627 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:02:11,627 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:02:11,627 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:02:12,717 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:123
+2023-03-25 16:02:12,718 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:123
+2023-03-25 16:02:12,718 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:02:12,718 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:02:12,718 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:02:12,718 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273
+2023-03-25 16:02:13,789 [DEBUG|PoliceForce/1962675462|SampleSearch] Time:124
+2023-03-25 16:02:13,789 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Time:124
+2023-03-25 16:02:13,789 [DEBUG|PoliceForce/1962675462|SampleRoadDetector] Targets: []
+2023-03-25 16:02:13,790 [DEBUG|PoliceForce/1962675462|SampleSearch] unsearchedBuildingIDs: [934, 935, 939, 942, 943, 247, 253]
+2023-03-25 16:02:13,790 [DEBUG|PoliceForce/1962675462|SampleSearch] best path is: [273, 903, 935]
+2023-03-25 16:02:13,790 [DEBUG|PoliceForce/1962675462|SampleSearch] chose: 273

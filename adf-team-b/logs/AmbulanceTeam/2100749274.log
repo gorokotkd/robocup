@@ -1,0 +1,741 @@
+2023-03-25 15:59:59,617 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:1
+2023-03-25 15:59:59,617 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:1
+2023-03-25 15:59:59,617 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:00,915 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:2
+2023-03-25 16:00:00,915 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:2
+2023-03-25 16:00:00,915 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:00,916 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [960, 905, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 249, 954, 250, 955, 956, 957, 253, 958, 254, 959]
+2023-03-25 16:00:00,917 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [902, 969, 968, 970, 896, 960]
+2023-03-25 16:00:00,917 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 970
+2023-03-25 16:00:02,133 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:3
+2023-03-25 16:00:02,134 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:3
+2023-03-25 16:00:02,134 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:02,134 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [960, 905, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 249, 954, 250, 955, 956, 957, 253, 958, 254, 959]
+2023-03-25 16:00:02,134 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [902, 969, 968, 970, 896, 960]
+2023-03-25 16:00:02,134 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 970
+2023-03-25 16:00:03,367 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:4
+2023-03-25 16:00:03,367 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:4
+2023-03-25 16:00:03,367 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:03,367 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [905, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 249, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:03,367 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [969, 273, 904, 936]
+2023-03-25 16:00:03,367 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 273
+2023-03-25 16:00:04,470 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:5
+2023-03-25 16:00:04,470 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:5
+2023-03-25 16:00:04,470 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:04,470 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [905, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 249, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:04,470 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 904, 936]
+2023-03-25 16:00:04,470 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 273
+2023-03-25 16:00:05,563 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:6
+2023-03-25 16:00:05,564 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:6
+2023-03-25 16:00:05,564 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:05,564 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [905, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:05,564 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:05,564 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:06,638 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:7
+2023-03-25 16:00:06,638 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:7
+2023-03-25 16:00:06,638 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:06,638 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [905, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:06,638 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:06,638 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:07,712 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:8
+2023-03-25 16:00:07,712 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:8
+2023-03-25 16:00:07,713 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:07,713 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [905, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:07,713 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:07,714 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:08,789 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:9
+2023-03-25 16:00:08,789 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:9
+2023-03-25 16:00:08,789 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:08,789 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [905, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:08,789 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:08,789 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:09,880 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:10
+2023-03-25 16:00:09,880 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:10
+2023-03-25 16:00:09,880 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:09,880 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [905, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:09,880 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:09,880 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:10,961 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:11
+2023-03-25 16:00:10,961 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:11
+2023-03-25 16:00:10,963 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:10,963 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [905, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:10,963 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:10,963 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:12,094 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:12
+2023-03-25 16:00:12,094 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:12
+2023-03-25 16:00:12,095 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:12,095 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:12,095 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:12,095 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:13,235 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:13
+2023-03-25 16:00:13,235 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:13
+2023-03-25 16:00:13,236 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:13,236 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:13,236 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:13,236 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:14,317 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:14
+2023-03-25 16:00:14,317 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:14
+2023-03-25 16:00:14,317 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:14,317 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:14,318 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:14,318 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:15,387 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:15
+2023-03-25 16:00:15,388 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:15
+2023-03-25 16:00:15,388 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:15,388 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:15,388 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:15,388 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:16,459 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:16
+2023-03-25 16:00:16,460 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:16
+2023-03-25 16:00:16,460 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:16,460 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:16,460 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:16,460 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:17,534 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:17
+2023-03-25 16:00:17,534 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:17
+2023-03-25 16:00:17,534 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:17,534 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [937, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:17,535 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:17,535 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:18,620 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:18
+2023-03-25 16:00:18,620 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:18
+2023-03-25 16:00:18,620 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:18,620 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [937, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:18,620 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:18,620 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:19,691 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:19
+2023-03-25 16:00:19,691 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:19
+2023-03-25 16:00:19,692 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:19,692 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [937, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:19,692 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:19,692 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:20,853 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:20
+2023-03-25 16:00:20,853 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:20
+2023-03-25 16:00:20,853 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:20,853 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [937, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:20,853 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:20,853 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:21,974 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:21
+2023-03-25 16:00:21,974 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:21
+2023-03-25 16:00:21,974 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:21,974 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [937, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:21,975 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:21,975 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:23,044 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:22
+2023-03-25 16:00:23,044 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:22
+2023-03-25 16:00:23,044 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:23,044 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:23,044 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:23,044 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:24,117 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:23
+2023-03-25 16:00:24,117 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:23
+2023-03-25 16:00:24,117 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:24,117 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:24,117 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:24,117 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:25,193 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:24
+2023-03-25 16:00:25,193 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:24
+2023-03-25 16:00:25,193 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:25,193 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:25,193 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940]
+2023-03-25 16:00:25,193 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 256
+2023-03-25 16:00:26,261 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:25
+2023-03-25 16:00:26,261 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:25
+2023-03-25 16:00:26,261 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:26,261 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [939, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:26,261 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940, 939]
+2023-03-25 16:00:26,261 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 912
+2023-03-25 16:00:27,343 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:26
+2023-03-25 16:00:27,343 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:26
+2023-03-25 16:00:27,344 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:27,344 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [939, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:27,344 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [273, 281, 256, 912, 940, 939]
+2023-03-25 16:00:27,344 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 912
+2023-03-25 16:00:28,415 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:27
+2023-03-25 16:00:28,415 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:27
+2023-03-25 16:00:28,415 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:28,415 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [939, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:28,416 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [281, 256, 912, 940, 939]
+2023-03-25 16:00:28,416 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 912
+2023-03-25 16:00:29,707 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:28
+2023-03-25 16:00:29,708 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:28
+2023-03-25 16:00:29,709 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:29,710 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:29,711 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [256, 281, 296, 297, 914, 942]
+2023-03-25 16:00:29,711 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:30,891 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:29
+2023-03-25 16:00:30,891 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:29
+2023-03-25 16:00:30,891 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:30,892 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:30,892 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [296, 297, 914, 942]
+2023-03-25 16:00:30,892 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:31,956 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:30
+2023-03-25 16:00:31,956 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:30
+2023-03-25 16:00:31,956 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:31,956 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:31,956 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [296, 297, 914, 942]
+2023-03-25 16:00:31,956 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:33,011 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:31
+2023-03-25 16:00:33,011 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:31
+2023-03-25 16:00:33,011 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:33,011 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:33,011 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [296, 297, 914, 942]
+2023-03-25 16:00:33,011 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:34,070 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:32
+2023-03-25 16:00:34,070 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:32
+2023-03-25 16:00:34,070 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:34,070 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:34,071 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [296, 297, 914, 942]
+2023-03-25 16:00:34,071 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:35,125 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:33
+2023-03-25 16:00:35,125 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:33
+2023-03-25 16:00:35,125 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:35,126 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:35,126 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [296, 297, 914, 942]
+2023-03-25 16:00:35,126 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:36,183 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:34
+2023-03-25 16:00:36,183 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:34
+2023-03-25 16:00:36,183 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:36,183 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:36,183 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [296, 297, 914, 942]
+2023-03-25 16:00:36,183 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:37,239 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:35
+2023-03-25 16:00:37,239 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:35
+2023-03-25 16:00:37,239 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:37,239 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:37,239 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [296, 297, 914, 942]
+2023-03-25 16:00:37,239 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:38,305 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:36
+2023-03-25 16:00:38,305 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:36
+2023-03-25 16:00:38,305 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:38,305 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:38,305 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [296, 297, 914, 942]
+2023-03-25 16:00:38,305 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:39,370 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:37
+2023-03-25 16:00:39,370 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:37
+2023-03-25 16:00:39,370 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:39,370 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:39,370 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [296, 297, 914, 942]
+2023-03-25 16:00:39,370 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:40,439 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:38
+2023-03-25 16:00:40,439 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:38
+2023-03-25 16:00:40,439 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:40,439 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:40,439 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:40,439 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:41,515 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:39
+2023-03-25 16:00:41,516 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:39
+2023-03-25 16:00:41,516 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:41,516 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:41,516 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:41,516 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:42,575 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:40
+2023-03-25 16:00:42,575 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:40
+2023-03-25 16:00:42,576 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:42,576 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 253, 958, 254]
+2023-03-25 16:00:42,576 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:42,576 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:43,637 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:41
+2023-03-25 16:00:43,637 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:41
+2023-03-25 16:00:43,637 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:43,637 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:43,637 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:43,638 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:44,695 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:42
+2023-03-25 16:00:44,695 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:42
+2023-03-25 16:00:44,695 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:44,695 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:44,695 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:44,695 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:45,752 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:43
+2023-03-25 16:00:45,752 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:43
+2023-03-25 16:00:45,752 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:45,752 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:45,752 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:45,752 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:46,806 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:44
+2023-03-25 16:00:46,806 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:44
+2023-03-25 16:00:46,806 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:46,806 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:46,806 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:46,806 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:47,865 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:45
+2023-03-25 16:00:47,866 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:45
+2023-03-25 16:00:47,866 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:47,866 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:47,866 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:47,866 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:48,934 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:46
+2023-03-25 16:00:48,934 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:46
+2023-03-25 16:00:48,934 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:48,934 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:48,934 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:48,934 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:49,994 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:47
+2023-03-25 16:00:49,994 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:47
+2023-03-25 16:00:49,994 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:49,994 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:49,994 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:49,994 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:51,053 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:48
+2023-03-25 16:00:51,053 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:48
+2023-03-25 16:00:51,053 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:51,053 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:51,053 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:51,053 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:52,125 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:49
+2023-03-25 16:00:52,125 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:49
+2023-03-25 16:00:52,125 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:52,125 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:52,125 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:52,126 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:53,191 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:50
+2023-03-25 16:00:53,192 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:50
+2023-03-25 16:00:53,192 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:53,192 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:53,192 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:53,192 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:54,267 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:51
+2023-03-25 16:00:54,267 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:51
+2023-03-25 16:00:54,267 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:54,267 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:54,268 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:54,268 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:55,330 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:52
+2023-03-25 16:00:55,330 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:52
+2023-03-25 16:00:55,330 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:55,330 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:55,331 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:55,331 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:56,396 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:53
+2023-03-25 16:00:56,396 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:53
+2023-03-25 16:00:56,396 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:56,397 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:56,397 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:56,397 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:57,463 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:54
+2023-03-25 16:00:57,463 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:54
+2023-03-25 16:00:57,464 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:57,464 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:57,464 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:57,464 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:58,526 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:55
+2023-03-25 16:00:58,526 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:55
+2023-03-25 16:00:58,526 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:58,526 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:58,526 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:58,526 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:00:59,591 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:56
+2023-03-25 16:00:59,591 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:56
+2023-03-25 16:00:59,591 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:00:59,591 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:00:59,591 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:00:59,591 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:01:00,651 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:57
+2023-03-25 16:01:00,651 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:57
+2023-03-25 16:01:00,651 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:00,652 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:01:00,652 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:00,652 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:01:01,717 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:58
+2023-03-25 16:01:01,718 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:58
+2023-03-25 16:01:01,718 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:01,718 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:01:01,718 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:01,718 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:01:02,778 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:59
+2023-03-25 16:01:02,778 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:59
+2023-03-25 16:01:02,779 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:02,779 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:01:02,779 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:02,779 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:01:03,836 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:60
+2023-03-25 16:01:03,836 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:60
+2023-03-25 16:01:03,836 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:03,836 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:01:03,836 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 914, 942]
+2023-03-25 16:01:03,836 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 297
+2023-03-25 16:01:04,900 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:61
+2023-03-25 16:01:04,900 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:61
+2023-03-25 16:01:04,900 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:04,901 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 250, 955, 956, 957, 958, 254]
+2023-03-25 16:01:04,901 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:04,901 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:05,967 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:62
+2023-03-25 16:01:05,967 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:62
+2023-03-25 16:01:05,967 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:05,967 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:05,967 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [297, 259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:05,967 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:07,046 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:63
+2023-03-25 16:01:07,046 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:63
+2023-03-25 16:01:07,047 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:07,047 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:07,047 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:07,047 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:08,091 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:64
+2023-03-25 16:01:08,091 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:64
+2023-03-25 16:01:08,092 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:08,092 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:08,092 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:08,092 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:09,142 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:65
+2023-03-25 16:01:09,142 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:65
+2023-03-25 16:01:09,142 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:09,142 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:09,142 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:09,143 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:10,201 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:66
+2023-03-25 16:01:10,201 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:66
+2023-03-25 16:01:10,201 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:10,201 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:10,201 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:10,201 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:11,254 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:67
+2023-03-25 16:01:11,254 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:67
+2023-03-25 16:01:11,254 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:11,254 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:11,254 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:11,254 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:12,313 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:68
+2023-03-25 16:01:12,313 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:68
+2023-03-25 16:01:12,313 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:12,313 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:12,313 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:12,313 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:13,377 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:69
+2023-03-25 16:01:13,377 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:69
+2023-03-25 16:01:13,378 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:13,378 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:13,378 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:13,378 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:14,446 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:70
+2023-03-25 16:01:14,446 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:70
+2023-03-25 16:01:14,446 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:14,446 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:14,446 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:14,446 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:15,523 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:71
+2023-03-25 16:01:15,523 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:71
+2023-03-25 16:01:15,523 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:15,523 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:15,523 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:15,523 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:16,578 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:72
+2023-03-25 16:01:16,578 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:72
+2023-03-25 16:01:16,578 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:16,579 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:16,579 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:16,579 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:17,637 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:73
+2023-03-25 16:01:17,637 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:73
+2023-03-25 16:01:17,637 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:17,637 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:17,637 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:17,637 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:18,705 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:74
+2023-03-25 16:01:18,705 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:74
+2023-03-25 16:01:18,705 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:18,705 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:18,705 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:18,705 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:19,780 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:75
+2023-03-25 16:01:19,780 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:75
+2023-03-25 16:01:19,780 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:19,780 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:19,780 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:19,781 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:20,846 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:76
+2023-03-25 16:01:20,846 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:76
+2023-03-25 16:01:20,846 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:20,846 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:20,846 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:20,846 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:21,914 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:77
+2023-03-25 16:01:21,914 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:77
+2023-03-25 16:01:21,915 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:21,915 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:21,915 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:21,915 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:23,004 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:78
+2023-03-25 16:01:23,005 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:78
+2023-03-25 16:01:23,005 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:23,005 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:23,005 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:23,005 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:24,061 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:79
+2023-03-25 16:01:24,061 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:79
+2023-03-25 16:01:24,061 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:24,061 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:24,061 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:24,061 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:25,141 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:80
+2023-03-25 16:01:25,141 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:80
+2023-03-25 16:01:25,141 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:25,141 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:25,141 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:25,141 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:26,200 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:81
+2023-03-25 16:01:26,200 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:81
+2023-03-25 16:01:26,200 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:26,200 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:26,200 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:26,200 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:27,260 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:82
+2023-03-25 16:01:27,260 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:82
+2023-03-25 16:01:27,260 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:27,260 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:27,260 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:27,260 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:28,316 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:83
+2023-03-25 16:01:28,316 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:83
+2023-03-25 16:01:28,316 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:28,316 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:28,316 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:28,316 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:29,376 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:84
+2023-03-25 16:01:29,376 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:84
+2023-03-25 16:01:29,377 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:29,377 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:29,377 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:29,377 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:30,461 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:85
+2023-03-25 16:01:30,461 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:85
+2023-03-25 16:01:30,461 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:30,462 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:30,462 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:30,462 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:31,533 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:86
+2023-03-25 16:01:31,533 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:86
+2023-03-25 16:01:31,533 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:31,533 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:31,533 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:31,533 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:32,614 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:87
+2023-03-25 16:01:32,614 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:87
+2023-03-25 16:01:32,614 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:32,614 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:32,614 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:32,614 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:33,672 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:88
+2023-03-25 16:01:33,672 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:88
+2023-03-25 16:01:33,672 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:33,672 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:33,672 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:33,672 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:34,742 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:89
+2023-03-25 16:01:34,742 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:89
+2023-03-25 16:01:34,742 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:34,742 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:34,742 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:34,742 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:35,805 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:90
+2023-03-25 16:01:35,805 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:90
+2023-03-25 16:01:35,805 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:35,805 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:35,805 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:35,805 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:36,880 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:91
+2023-03-25 16:01:36,881 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:91
+2023-03-25 16:01:36,881 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:36,881 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:36,881 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:36,881 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:37,948 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:92
+2023-03-25 16:01:37,948 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:92
+2023-03-25 16:01:37,949 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:37,949 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:37,949 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:37,949 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:39,051 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:93
+2023-03-25 16:01:39,051 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:93
+2023-03-25 16:01:39,052 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:39,052 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:39,052 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:39,052 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:40,105 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:94
+2023-03-25 16:01:40,105 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:94
+2023-03-25 16:01:40,105 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:40,105 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:40,105 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:40,105 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:41,171 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:95
+2023-03-25 16:01:41,172 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:95
+2023-03-25 16:01:41,172 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:41,172 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:41,172 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:41,172 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:42,247 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:96
+2023-03-25 16:01:42,247 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:96
+2023-03-25 16:01:42,247 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:42,247 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:42,248 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:42,248 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:43,312 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:97
+2023-03-25 16:01:43,312 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:97
+2023-03-25 16:01:43,312 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:43,312 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:43,312 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:43,312 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:44,382 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:98
+2023-03-25 16:01:44,382 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:98
+2023-03-25 16:01:44,382 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:44,382 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:44,382 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:44,382 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:45,460 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:99
+2023-03-25 16:01:45,460 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:99
+2023-03-25 16:01:45,460 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:45,460 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:45,460 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:45,460 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:46,517 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:100
+2023-03-25 16:01:46,517 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:100
+2023-03-25 16:01:46,517 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:46,517 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:46,517 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:46,517 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:47,591 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:101
+2023-03-25 16:01:47,591 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:101
+2023-03-25 16:01:47,591 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:47,591 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:47,592 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:47,592 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:48,781 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:102
+2023-03-25 16:01:48,782 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:102
+2023-03-25 16:01:48,782 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:48,782 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:48,782 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:48,782 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:49,907 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:103
+2023-03-25 16:01:49,907 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:103
+2023-03-25 16:01:49,907 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:49,907 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:49,907 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:49,907 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:51,006 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:104
+2023-03-25 16:01:51,006 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:104
+2023-03-25 16:01:51,006 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:51,006 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:51,006 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:51,006 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:52,092 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:105
+2023-03-25 16:01:52,092 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:105
+2023-03-25 16:01:52,092 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:52,092 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:52,092 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:52,092 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:53,179 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:106
+2023-03-25 16:01:53,179 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:106
+2023-03-25 16:01:53,180 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:53,180 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:53,180 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:53,180 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:54,308 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:107
+2023-03-25 16:01:54,308 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:107
+2023-03-25 16:01:54,308 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:54,308 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:54,308 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:54,308 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:55,404 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:108
+2023-03-25 16:01:55,404 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:108
+2023-03-25 16:01:55,404 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:55,404 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:55,404 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:55,404 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:56,479 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:109
+2023-03-25 16:01:56,479 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:109
+2023-03-25 16:01:56,479 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:56,479 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:56,479 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:56,479 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:57,554 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:110
+2023-03-25 16:01:57,554 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:110
+2023-03-25 16:01:57,554 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:57,554 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:57,554 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:57,554 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:58,633 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:111
+2023-03-25 16:01:58,633 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:111
+2023-03-25 16:01:58,633 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:58,633 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:58,633 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:58,633 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:01:59,707 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:112
+2023-03-25 16:01:59,707 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:112
+2023-03-25 16:01:59,707 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:01:59,707 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:01:59,707 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:01:59,707 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:02:00,774 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:113
+2023-03-25 16:02:00,774 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:113
+2023-03-25 16:02:00,774 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:00,774 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:02:00,774 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:02:00,774 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:02:01,844 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:114
+2023-03-25 16:02:01,844 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:114
+2023-03-25 16:02:01,844 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:01,844 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:02:01,844 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:02:01,844 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:02:02,920 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:115
+2023-03-25 16:02:02,920 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:115
+2023-03-25 16:02:02,920 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:02,920 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:02:02,920 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:02:02,920 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:02:04,198 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:116
+2023-03-25 16:02:04,198 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:116
+2023-03-25 16:02:04,198 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:04,198 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:02:04,198 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:02:04,198 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:02:05,286 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:117
+2023-03-25 16:02:05,286 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:117
+2023-03-25 16:02:05,286 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:05,286 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:02:05,286 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:02:05,286 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:02:06,356 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:118
+2023-03-25 16:02:06,356 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:118
+2023-03-25 16:02:06,356 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:06,356 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:02:06,356 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:02:06,356 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:02:07,425 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:119
+2023-03-25 16:02:07,425 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:119
+2023-03-25 16:02:07,425 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:07,425 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:02:07,425 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:02:07,425 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:02:08,534 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:120
+2023-03-25 16:02:08,534 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:120
+2023-03-25 16:02:08,535 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:08,535 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:02:08,535 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:02:08,535 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:02:10,518 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:121
+2023-03-25 16:02:10,518 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:121
+2023-03-25 16:02:10,519 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:10,519 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:02:10,519 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:02:10,519 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:02:11,629 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:122
+2023-03-25 16:02:11,629 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:122
+2023-03-25 16:02:11,629 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:11,629 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:02:11,630 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:02:11,630 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:02:12,720 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:123
+2023-03-25 16:02:12,720 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:123
+2023-03-25 16:02:12,720 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:12,720 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:02:12,720 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:02:12,720 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
+2023-03-25 16:02:13,792 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Time:124
+2023-03-25 16:02:13,793 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] Time:124
+2023-03-25 16:02:13,793 [DEBUG|AmbulanceTeam/2100749274|SampleHumanDetector] Targets:[]
+2023-03-25 16:02:13,793 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] unsearchedBuildingIDs: [944, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 254]
+2023-03-25 16:02:13,793 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] best path is: [259, 280, 257, 270, 916, 944]
+2023-03-25 16:02:13,793 [DEBUG|AmbulanceTeam/2100749274|SampleSearch] chose: 270
