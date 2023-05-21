@@ -123,7 +123,7 @@ public class MyCustomPlanning extends PathPlanning {
     List<EntityID> path = new ArrayList<>();
     List<StandardEntity> policeForces = worldInfo.getEntitiesOfType(StandardEntityURN.POLICE_FORCE).stream()
             .filter(k -> !k.getID().equals(agentInfo.getID()))
-            .filter(k -> ((PoliceForce)k).getTeam().equals(policeForce.isTeamDefined() ? policeForce.getTeam() : ""))
+            //.filter(k -> ((PoliceForce)k).getTeam().equals(policeForce.isTeamDefined() ? policeForce.getTeam() : ""))
             .collect(Collectors.toList());
 
     path.add(from);
